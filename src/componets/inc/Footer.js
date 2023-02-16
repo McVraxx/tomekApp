@@ -25,10 +25,10 @@ function Footer() {
               <Link to="/about">Firma</Link>
             </div>
             <div>
-              <Link to="/">Kontakt</Link>
+              <Link to="/contact">Kontakt</Link>
             </div>
             <div>
-              <Link to="/">Galeria</Link>
+              <Link to="/gallery">Galeria</Link>
             </div>
           </div>
 

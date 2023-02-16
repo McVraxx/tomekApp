@@ -35,8 +35,8 @@ p {
 }
 
 .carousel {
-  width: 1300px;
-  height: 500px;
+  width: 50%;
+  height: 50%;
   margin: 0 auto;
   height: auto;
 }

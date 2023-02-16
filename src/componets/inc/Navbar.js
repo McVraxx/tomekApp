@@ -31,6 +31,14 @@ function Home() {
                     </li>
                     <li className="nav-item">
                       <Link
+                        to="/gallery"
+                        className="nav-link active text-white"
+                      >
+                        Galeria
+                      </Link>
+                    </li>
+                    <li className="nav-item">
+                      <Link
                         to="/contact"
                         className="nav-link active text-white"
                       >
