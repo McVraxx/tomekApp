@@ -28,12 +28,16 @@ function App() {
           <Route path="/contact" element={<Contact />} />
 
           <Route path="/gallery/ogrodzenia" element={<Ogrodzenia />} />
+
           <Route path="/gallery/posadzki" element={<Posadzki />} />
+
           <Route path="/gallery/elewacje" element={<Elewacje />} />
+
           <Route
             path="/gallery/adaptacjeogrodowe"
             element={<AdaptacjeOgrodowe />}
           />
+
           <Route path="/gallery/schody" element={<Schody />} />
         </Routes>
         <Footer />
