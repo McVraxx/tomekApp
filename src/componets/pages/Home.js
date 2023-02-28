@@ -48,14 +48,15 @@ function Home() {
                   alt="Services"
                 />
                 <div className="card-body">
-                  <h6> Service1</h6>
+                  <h6> Schody </h6>
                   <div className="underline"></div>
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry.
+                    Schody wykonane przez naszą firme wyróżniają się dbałościa o
+                    szczegóły jak i zarówno oczywistą kwestie odpornościa na
+                    codzienne użytkowanie.
                   </p>
-                  <Link to="/services" className="btn btn-link">
-                    czytaj więcej...
+                  <Link to="/gallery/schody" className="btn btn-link">
+                    Galeria schodów.
                   </Link>
                 </div>
               </div>
@@ -69,14 +70,15 @@ function Home() {
                   alt="Services"
                 />
                 <div className="card-body">
-                  <h6> Service1</h6>
+                  <h6> Posadzki </h6>
                   <div className="underline"></div>
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry.
+                    W pakiecie naszych usług znajdziemy również posadzki w pełni
+                    wykonane z ręcznie kształtowanego kamienia co gwarantuje
+                    niepowtarzane wzory.
                   </p>
-                  <Link to="/services" className="btn btn-link">
-                    czytaj więcej...
+                  <Link to="/gallery/posadzki" className="btn btn-link">
+                    Galeria posadzek.
                   </Link>
                 </div>
               </div>
@@ -90,14 +92,15 @@ function Home() {
                   alt="Services"
                 />
                 <div className="card-body">
-                  <h6> Service1</h6>
+                  <h6> Ogrodzenia </h6>
                   <div className="underline"></div>
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry.
+                    Typowym wyborem są jednak ogrodzenia. Nie jest to jednak dla
+                    nas coś osobliwego gdyż ogrodzenia wykonane z kamienia są w
+                    większej częsci ozdobą domu.
                   </p>
-                  <Link to="/services" className="btn btn-link">
-                    czytaj więcej...
+                  <Link to="/gallery/ogrodzenia" className="btn btn-link">
+                    Galeria ogrodzeń.
                   </Link>
                 </div>
               </div>

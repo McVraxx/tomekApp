@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-<link href="path/to/lightbox.css" rel="stylesheet" />;
 
 function Gallery() {
   return (

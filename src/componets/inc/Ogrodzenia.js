@@ -61,9 +61,10 @@ function Ogrodzenia() {
         <div className="container">
           <div className="row">
             {data.map((item, index) => (
-              <div className="col-lg-6 mb-3">
+              <div className="col-lg-6 mb-3" key={item.toString()}>
                 <div key={index}>
                   <img
+                    key={item.toString()}
                     className="img-fluid"
                     src={item}
                     alt={item.text}
